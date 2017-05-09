@@ -8,7 +8,7 @@ Followed by:
 ```goyacc -o calc.go -p Calc calc.y``` 
  
  
-References:
+References: 
 https://github.com/golang-samples/yacc/tree/master/simple  
 https://godoc.org/github.com/cznic/goyacc  
 https://blog.golang.org/generate (outdated)  
